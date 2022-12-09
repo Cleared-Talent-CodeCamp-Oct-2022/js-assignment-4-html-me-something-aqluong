@@ -1,1 +1,25 @@
-/* Write your CSS here! */
+body {
+	width: 25%;
+	max-width:max-content;
+	margin: 0 auto;
+	background-color: rgb(104, 149, 193);
+	font-size:larger;
+    text-align: center;
+}
+
+h1, h2, h3 {
+	margin: 0;
+    text-align: center;
+}
+/* class */
+.color {
+    color:darkviolet;
+}
+/* ID */
+#background{
+    background-color:coral;
+}
+/* element */
+li{
+    background-color: gold;
+}
