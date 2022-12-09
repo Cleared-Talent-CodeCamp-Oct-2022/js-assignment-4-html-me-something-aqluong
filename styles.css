@@ -1,7 +1,6 @@
 body {
 	width: 25%;
 	max-width:max-content;
-	margin: 0 auto;
 	background-color: rgb(104, 149, 193);
 	font-size:larger;
     text-align: center;
@@ -15,11 +14,25 @@ h1, h2, h3 {
 .color {
     color:darkviolet;
 }
+.funParagraph{
+    color:green;
+}
 /* ID */
 #background{
     background-color:coral;
 }
+#mainHeading{
+    color:red;
+    background-color:goldenrod;
+}
+#testP{
+    font-style: italic;
+    background-color: khaki;
+}
 /* element */
 li{
     background-color: gold;
+}
+body{
+    margin: 8px;
 }
