@@ -37,16 +37,16 @@ h1, h2, h3 {
 
 
 #article{
-    image
-    text-align:center
+    background-color: aquamarine;
+    text-align: center
     /* margin:0pc; */
-    background-color: blue;
 }
 /* element */
 li{
     background-color: gold;
 }
 body{
+    /* margin: 8px; making margin auto cause I like it better*/
     margin: auto; 
     text-align: center; 
     /* margin:auto */
@@ -56,3 +56,10 @@ img{
     border: 10px double rgb(114, 62, 169)
 }
 
+main{
+    border: 10pt groove rgb(147, 212, 6);
+}
+
+footer{
+    border: 7px dashed goldenrod;
+}
