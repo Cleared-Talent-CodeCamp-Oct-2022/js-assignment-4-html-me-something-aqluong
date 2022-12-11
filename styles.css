@@ -13,6 +13,7 @@ div {
 h1, h2, h3 {
 	margin: 0;
     text-align: center;
+    border: 5px outset pink
 }
 /* class */
 .color {
@@ -49,5 +50,9 @@ body{
     margin: auto; 
     text-align: center; 
     /* margin:auto */
-}   
+}  
+
+img{
+    border: 10px double rgb(114, 62, 169)
+}
 
