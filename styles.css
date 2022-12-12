@@ -11,6 +11,10 @@ body {
     text-align: center;
 }
 
+p {
+   border: 5pt ridge teal; 
+}
+
 div {
     padding:0cm;
   }
@@ -61,6 +65,7 @@ h1, h2, h3 {
 ul, ol{
     background-color: gold;
     text-align: left;
+    border: 6px solid rgb(120, 71, 158);
 }
 
 img{
