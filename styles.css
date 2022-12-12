@@ -28,6 +28,7 @@ h1, h2, h3 {
 }
 .funParagraph{
     color:green;
+    background-color: rgb(214, 229, 190);
 }
 /* ID */
 #background{
@@ -42,13 +43,20 @@ h1, h2, h3 {
     background-color: khaki;
 }
 
-
 #article{
     background-color: aquamarine;
     text-align: center;
     /* img: auto */
     /* margin:0pc; */
 }
+
+#copyR{
+    color: aliceblue;
+    background-color: rgb(52, 14, 141);
+    border: 5px dashed black;
+}
+
+
 /* element */
 ul, ol{
     background-color: gold;
@@ -72,7 +80,7 @@ img{
 }
 
 main{
-    border: 10pt ridge rgb(56, 78, 190);
+    border: 10pt ridge rgb(117, 122, 145);
     
 }
 
