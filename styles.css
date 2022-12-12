@@ -1,10 +1,8 @@
 /* element selector for body */
 
 body {
-    margin:auto;
-    /* margin-left: auto; */
-    /* margin-right: auto; */
-    /* margin: 8px; */
+    /* margin:auto; */
+    margin: 8px;
     /* display:block; */
 	width: 50%;
 	/* max-width:max-content; */
@@ -19,12 +17,14 @@ div {
 
 h1, h2, h3 {
 	margin: 0;
+    padding: 10px;
     text-align: center;
     border: 5px outset pink
 }
 /* class */
 .color {
     color:darkviolet;
+    background-color: rgb(221, 92, 191);
 }
 .funParagraph{
     color:green;
@@ -57,6 +57,7 @@ ul, ol{
 
 img{
     display:block;
+    padding: 8px;
     width: 60%;
     margin-left: auto;
     margin-right: auto;
@@ -65,6 +66,7 @@ img{
     width: 30%;
     height: 30%;
     border: 10px double rgb(207, 184, 55)
+    
     /* margin: auto; */
     /* display: block; */
 }
